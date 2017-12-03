@@ -6,6 +6,8 @@ We have modified the implementation of <a href="https://github.com/ry/tensorflow
 
 >To use the VGG networks, the npy files for [VGG16 NPY](https://dl.dropboxusercontent.com/u/50333326/vgg16.npy) or [VGG19 NPY](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs) has to be downloaded.
 
+vgg16_url = 'https://dl.dropboxusercontent.com/u/50333326/vgg16.npy'  
+
 ##Usage
 Use this to build the VGG object
 ```
